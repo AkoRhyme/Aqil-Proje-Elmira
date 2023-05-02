@@ -69,9 +69,12 @@ body{
 
 
 .pricesell{
+display: grid;
+    grid: 4rem;
 
 }
 
 .pricesellimg{
     width: 70px;
+    height: 50px;
 }
